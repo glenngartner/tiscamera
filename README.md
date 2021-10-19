@@ -1,3 +1,7 @@
+## A fork from [The Imageing Source](https://github.com/TheImagingSource/tiscamera)
+Additions include: 
+* Dockerfile for running the lib in a container
+
 
 # The Imaging Source Linux Repository
 
